@@ -3,7 +3,6 @@
 
 class Future
 {
-
 public:    
     Future(double underlying, double rate, double timeToExpiration);
     virtual ~Future();
