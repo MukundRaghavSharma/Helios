@@ -1,7 +1,9 @@
 #ifndef OPTION_H
 #define OPTION_H
 
-class Option
+#include "../Instrument.h"
+
+class Option : public Instrument
 {
 };
 
